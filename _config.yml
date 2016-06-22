@@ -1,8 +1,9 @@
 layout_spectrum: 0.3468085
+typography_spectrum: 0.6489362
 color:
   saturation: 0.5022549
   lightness: 0.5404255
-  brandStrength: 0.8319149
+  brandStrength: 0.4127659
   brandColors:
     - '#C8E2F9'
     - '#365E5E'
@@ -10,5 +11,4 @@ color:
     - '#3F302B'
     - '#65859A'
   rhythmicContrast: 0.7563324
-typography_spectrum: 0.6489362
 name: 'S7L inc. '
